@@ -57,7 +57,7 @@ body {
 /* banner */
 
 .banner {
-    background-image: url(/assets/image/netflix-banner-img.jpeg);
+    background-image: url(./assets/image/netflix-banner-img.jpeg);
     background-size: cover;
     background-position: center;
     color: var(--text-color);
